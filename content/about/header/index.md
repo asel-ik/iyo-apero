@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Welcome.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+My name is Asel. I'm a second-year Master of Information student at University of Toronto with interests in advancing my knowledge in data analysis in R and Python, efficiently cleaning and transforming datasets, and building predictive models. :ca:
