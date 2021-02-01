@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-My name is Asel. I'm a second-year Master of Information student at University of Toronto with interests in advancing my knowledge in data analysis in R and Python, efficiently cleaning and transforming datasets, and building predictive models. :ca:
+My name is Asel. I love exploring data by visualizing, cleaning, and transforming it.
